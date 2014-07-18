@@ -21,6 +21,7 @@ Global
 		{940AB88A-24EB-4177-9CE4-E6CD947C0907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Tutorial\Tutorial.csproj
+		StartupItems = $0
+		$0.Item = Phoneword_Droid\Phoneword_Droid.csproj
 	EndGlobalSection
 EndGlobal

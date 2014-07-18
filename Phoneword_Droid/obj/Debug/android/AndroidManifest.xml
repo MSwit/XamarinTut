@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Phoneword_Droid.Phoneword_Droid">
-  <uses-sdk android:minSdkVersion="20" android:targetSdkVersion="20" />
-  <application android:name="mono.android.app.Application" android:debuggable="true">
+  <uses-sdk android:minSdkVersion="20" />
+  <application android:label="Phoneword_Droid" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="Phoneword_Droid" android:name="phoneword_droid.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
