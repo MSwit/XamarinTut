@@ -1,0 +1,13 @@
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.dll.mdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.Tutorial.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.Tutorial-Signed.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\android\bin\Tutorial.Tutorial.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\res\layout\main.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\res\values\strings.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\res\drawable\icon.png
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\R.cs.flag
+C:\Users\Zellu\Documents\Projects\Tutorial\Tutorial\obj\Debug\uploadflags.txt

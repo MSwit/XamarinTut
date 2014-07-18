@@ -1,0 +1,13 @@
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\bin\Debug\Phoneword_Droid.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\bin\Debug\Phoneword_Droid.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\bin\Debug\Phoneword_Droid.dll.mdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\bin\Debug\Phoneword_Droid.Phoneword_Droid.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\bin\Debug\Phoneword_Droid.Phoneword_Droid-Signed.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\Phoneword_Droid.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\Phoneword_Droid.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\android\bin\Phoneword_Droid.Phoneword_Droid.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\res\layout\main.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\res\values\strings.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\R.cs.flag
+C:\Users\Zellu\Documents\Projects\Tutorial\Phoneword_Droid\obj\Debug\uploadflags.txt
