@@ -9,9 +9,18 @@ using Android.OS;
 
 namespace Phoneword_Droid
 {
+
+
+
 	[Activity (Label = "Phoneword_Droid", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
+
+		EditText phoneNumberText = FindViewById<EditText>(Resource.Id.PhoneNumberText);
+		Button translateButton = FindViewById<Button>(Resource.Id.TranslateButton);
+
+
+
 		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)

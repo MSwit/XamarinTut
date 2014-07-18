@@ -14,6 +14,8 @@ namespace Tutorial
 	{
 		int count = 1;
 
+
+		Button test = FindViewById<EditText>(re
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
