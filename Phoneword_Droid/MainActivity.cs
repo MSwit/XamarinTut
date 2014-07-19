@@ -19,6 +19,8 @@ namespace Phoneword_Droid
 		EditText phoneNumberText;
 		Button translateButton; 
 		Button callButton;
+		TextView debugTextView;
+		String debugTextViewDefaultText = "Debug msg: ";
 
 		private String callButtonPrefix = "Call ";
 
@@ -46,6 +48,7 @@ namespace Phoneword_Droid
 
 			callButton.Enabled = false;
 
+			debugTextView = FindViewById<TextView> (Resource.Id.debugTextView);
 
 		}
 
@@ -91,12 +94,15 @@ namespace Phoneword_Droid
 
 				String number = callButton.Text.Substring(callButtonPrefix.Length);
 				calldialogConfirm.SetMessage("Realy call " + number + " ?");
-				calldialogConfirm.SetNeutralButton("JA", delegate {
-					Toast callDummy = new Toast(this);
+				calldialogConfirm.SetNeutralButton("JA, bitte ruf diese nummer an", delegate {
+
+					/*Toast callDummy = new Toast(this);
 					callDummy.SetText("normalerweise würde ich nun callen");
-					callDummy.Show();
+					callDummy.Show(); */
+					debugTextView.Text = debugTextViewDefaultText + " würde normalerweise nun " + number + " anrufen";
+					
 				});
-				calldialogConfirm.SetNeutralButton("Cancel", delegate {});
+				calldialogConfirm.SetNegativeButton("Cancel", delegate {});
 
 
 				calldialogConfirm.Show();
