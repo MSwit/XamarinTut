@@ -1,27 +1,54 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-
-namespace ActivityLifecycle
+﻿namespace ActivityLifecycle
 {
-	[Activity (Label = "SecondActivity")]			
+	using Android.App;
+	using Android.OS;
+	using Android.Util;
+
+	[Activity(Label = "Activity B")]
 	public class SecondActivity : Activity
 	{
-		protected override void OnCreate (Bundle bundle)
+		protected override void OnCreate(Bundle bundle)
 		{
-			base.OnCreate (bundle);
-
-			// Create your application here
+			Log.Debug(GetType().FullName, "Activity B - OnCreate");
+			base.OnCreate(bundle);
 		}
+
+		protected override void OnRestart()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnRestart");
+			base.OnRestart();
+		}
+
+		protected override void OnStart()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnStart");
+			base.OnStart();
+		}
+
+		protected override void OnResume()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnResume");
+			base.OnResume();
+		}
+
+		protected override void OnPause()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnPause");
+			base.OnPause();
+		}
+
+		protected override void OnStop()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnStop");
+			base.OnStop();
+		}
+
+		protected override void OnDestroy()
+		{
+			Log.Debug(GetType().FullName, "Activity B - OnDestroy");
+			base.OnDestroy();
+		}
+
+
 	}
 }
-

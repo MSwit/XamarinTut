@@ -2,4 +2,8 @@
 <resources>
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">ActivityLifecycle</string>
+	<string name="counterbutton_text"> click me</string>
+	<string name="mybutton_text"> mybutton_text</string>
+
+
 </resources>

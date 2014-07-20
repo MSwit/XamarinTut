@@ -1,0 +1,2 @@
+ActivityLifecycle.MainActivity;activitylifecycle.MainActivity
+ActivityLifecycle.SecondActivity;activitylifecycle.SecondActivity

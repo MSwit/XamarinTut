@@ -1,0 +1,13 @@
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\bin\Debug\ActivityLifecycle.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\bin\Debug\ActivityLifecycle.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\bin\Debug\ActivityLifecycle.dll.mdb
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\bin\Debug\ActivityLifecycle.ActivityLifecycle.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\bin\Debug\ActivityLifecycle.ActivityLifecycle-Signed.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\ActivityLifecycle.dll
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\ActivityLifecycle.pdb
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\android\bin\ActivityLifecycle.ActivityLifecycle.apk
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\res\layout\main.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\res\values\strings.xml
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\res\drawable\icon.png
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\R.cs.flag
+C:\Users\Zellu\Documents\Projects\Tutorial\ActivityLifecycle\obj\Debug\uploadflags.txt
