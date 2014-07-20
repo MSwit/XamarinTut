@@ -63,14 +63,17 @@ namespace Phoneword_Droid
 			// aapt resource value: 0x7f050003
 			public const int CallButton = 2131034115;
 			
+			// aapt resource value: 0x7f050004
+			public const int CallHistoryButton = 2131034116;
+			
 			// aapt resource value: 0x7f050001
 			public const int PhoneNumberText = 2131034113;
 			
 			// aapt resource value: 0x7f050002
 			public const int TranslateButton = 2131034114;
 			
-			// aapt resource value: 0x7f050004
-			public const int debugTextView = 2131034116;
+			// aapt resource value: 0x7f050005
+			public const int debugTextView = 2131034117;
 			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;
@@ -106,6 +109,12 @@ namespace Phoneword_Droid
 			
 			// aapt resource value: 0x7f040001
 			public const int app_name = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int callHistory = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int callHistoryKey = 2130968579;
 			
 			// aapt resource value: 0x7f040000
 			public const int hello = 2130968576;
